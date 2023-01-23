@@ -2534,3 +2534,6 @@ mjx-container[display='true'] + br {
     padding: 10px 12px;
   }
 }
+.archive .collection-title {
+  display: none !important;
+}
